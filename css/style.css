@@ -1,0 +1,73 @@
+body{
+    background: #009688 ;
+
+}
+header{
+    text-align: center;
+    padding-top: 7%;
+}
+.LogoG{
+    width: 20%;
+border-radius: 500px;  
+ box-shadow: 0 0 45px rgba(0, 0, 0, 2);
+}
+
+#usuarioinsta{
+    text-align: center;
+    padding-top: 2%;
+    color: #212121;
+    margin-bottom: 0;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    text-align: center;
+    padding: 10px;
+}
+.btsection{
+    text-align: center;
+    box-shadow: -5px 5px 5px black;
+    border-radius: 8px;
+}
+.btsection:hover{
+background: #009688 ;
+}
+
+.btnsection:hover{
+    color: #FFFFFF;
+}
+.btnsection{
+    text-decoration: none;
+    padding: 10px;
+    color: #009688;
+    text-transform: uppercase;
+}
+section{
+    font-family: 'Agdasima', sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #212121;
+}
+
+.txt{
+    text-decoration: none;
+    color: #212121;
+}
+.txt:hover{
+    color: #FFFFFF;
+}
+
+nav{
+    text-align: center;
+}
+#pfoot{
+text-align: left;
+color: #212121;
+font-size: 10px;
+}
+footer div {
+    display: none;
+}
