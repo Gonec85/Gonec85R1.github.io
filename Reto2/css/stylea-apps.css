@@ -1,0 +1,41 @@
+
+body{
+    margin: 0;
+    background: #ffffff ;
+    font-family: arial, sans-serif;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+section div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(66, 133, 244, 0);
+    border-radius: 10px;
+}
+
+section div:hover{
+    background: rgba(66, 133, 244, 0.4);
+}
+
+section div img{
+    width: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+section div span{
+    font-size: 13px;
+    margin-bottom: 5px;
+}
